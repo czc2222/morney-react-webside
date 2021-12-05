@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morney-react-webside/static/css/main.ba9fc46f.chunk.css",
+    "main.js": "/morney-react-webside/static/js/main.7a4d6653.chunk.js",
+    "main.js.map": "/morney-react-webside/static/js/main.7a4d6653.chunk.js.map",
+    "runtime-main.js": "/morney-react-webside/static/js/runtime-main.7cf3500e.js",
+    "runtime-main.js.map": "/morney-react-webside/static/js/runtime-main.7cf3500e.js.map",
+    "static/js/2.34c84db5.chunk.js": "/morney-react-webside/static/js/2.34c84db5.chunk.js",
+    "static/js/2.34c84db5.chunk.js.map": "/morney-react-webside/static/js/2.34c84db5.chunk.js.map",
+    "static/js/3.afce0738.chunk.js": "/morney-react-webside/static/js/3.afce0738.chunk.js",
+    "static/js/3.afce0738.chunk.js.map": "/morney-react-webside/static/js/3.afce0738.chunk.js.map",
+    "index.html": "/morney-react-webside/index.html",
+    "static/css/main.ba9fc46f.chunk.css.map": "/morney-react-webside/static/css/main.ba9fc46f.chunk.css.map",
+    "static/js/2.34c84db5.chunk.js.LICENSE.txt": "/morney-react-webside/static/js/2.34c84db5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf3500e.js",
+    "static/js/2.34c84db5.chunk.js",
+    "static/css/main.ba9fc46f.chunk.css",
+    "static/js/main.7a4d6653.chunk.js"
+  ]
+}
